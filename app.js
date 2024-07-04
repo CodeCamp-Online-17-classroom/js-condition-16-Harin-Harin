@@ -36,3 +36,5 @@ alert(`design-token
 else if(user === 'Design Token'){
   alert("Design token _____ not found.")
   }
+
+  console.log(`user : ${user}`)
